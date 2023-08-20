@@ -1,0 +1,14 @@
+.product-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    background-color: lightgray;
+}
+.product-img img{
+    margin: 0 auto;
+}
+i{
+    color: hsl(45, 100%, 51%);
+}
